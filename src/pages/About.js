@@ -3,7 +3,7 @@ import { FlexDiv } from '../Components/Navbar/navbarelements';
 function About() {
     return (  
         <FlexDiv>
-            <h1>this is About page</h1>
+            <h1>this is About page and i have commited</h1>
             </FlexDiv>
     );
 }
